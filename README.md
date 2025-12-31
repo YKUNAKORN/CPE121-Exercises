@@ -5,10 +5,17 @@ This project keeps my solutions for the CPE121 Mobile Application Development su
 
 ## Folder Guide
 - `src/Main.java` – simple launcher or test space for trying code.
-- `src/exercises/exercise1` – warm-up programs such as unit converters and BMI calculation.
-- `src/exercises/exercise2` – math and logic drills like ISBN checks, dice guessing, and rock-paper-scissors.
-- `src/exercises/exercise3` – loops and tables, including min/max finder, mileage tables, and number pyramids.
-- `src/quizzes` – extra practice or graded tasks (placeholder for now).
+- `src/exercises/exercise1` – Basic Computation
+- `src/exercises/exercise2` – Selection
+- `src/exercises/exercise3` – Control Statement
+- `src/exercises/exercise4` – Method
+- `src/exercises/exercise5` – UML
+- `src/exercises/exercise6String` – String
+- `src/exercises/exercise6Array` – Method
+- `src/exercises/exercise7` – Inheritance
+- `src/exercises/exercise8` – GUI
+- `src/exercises/exercise9` – Graphic 
+- `src/exercises/exercise10` – Event Handling
 
 ## Requirements
 1. Java Development Kit (JDK) 17 or newer.
